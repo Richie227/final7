@@ -1,0 +1,91 @@
+.bold {
+    font-weight: bold;
+}
+
+.justify {
+    text-align: center;
+}
+
+.fontcolor {
+    color: rgb(31, 46, 99);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.writing {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    border: 2px solid black;
+    position:relative
+}
+
+.noborder {
+    position:relative;
+
+    
+}
+
+
+.header {
+    top: 50px;
+    left: 0px;
+    right: 50px;
+    height: 200px;
+    
+}
+
+.leftmenu {
+    top: 80px;
+    left: 0px;
+    width: 300px;
+    height: 370;
+    bottom: 22px;
+    font-size: large;
+    text-align: left; 
+    
+}
+
+.rightmenu {
+    top: -310px;
+    right: -1120px;
+    width: 300px;
+    height: 387px;
+    bottom: -110px;
+    
+}
+
+.mainbodytwo {
+    top: -702px;
+    left: 435px;
+    right: 465px;
+    height: 387px;
+    width: 560px;
+    bottom: -150px;
+    
+
+
+
+}
+
+.mainbody {
+    top:-585px;
+    left: 0px;
+    right: 50px;
+    bottom: -150px;
+    align-items: center;
+    
+    
+}
+
+
+
+
+.footer {
+    bottom: 500px;
+    left: 0px;
+    right: 50px;
+    height: 25px;
+    text-align: center;
+}
+
